@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Md. Osama Bin Al KAfi</h1>
+![A passionate "Flutter - Mobile Application Developer" from Bangladesh.](https://media.licdn.com/dms/image/D5616AQH5FPxAnuBJWg/profile-displaybackgroundimage-shrink_200_800/0/1719352980846?e=2147483647&v=beta&t=g7SCWbxM5HUZORTQxWoaJHAwTs1rfh56MJIFlf17yQQ)
+
+<h1 align="center">Hi 👋, I'm Md. Osama Bin Al Kafi</h1>
 <h3 align="center">A passionate "Flutter - Mobile Application Developer" from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdosamabinalkafi&label=Profile%20views&color=0e75b6&style=flat" alt="mdosamabinalkafi" /> </p>
