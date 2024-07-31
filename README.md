@@ -1,5 +1,3 @@
-![A passionate "Flutter - Mobile Application Developer" from Bangladesh.](https://media.licdn.com/dms/image/D5616AQH5FPxAnuBJWg/profile-displaybackgroundimage-shrink_200_800/0/1719352980846?e=2147483647&v=beta&t=g7SCWbxM5HUZORTQxWoaJHAwTs1rfh56MJIFlf17yQQ)
-
 <h1 align="center">Hi 👋, I'm Md. Osama Bin Al Kafi</h1>
 <h3 align="center">A passionate "Flutter - Mobile Application Developer" from Bangladesh.</h3>
 
