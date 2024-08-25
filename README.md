@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm MD OSAMA BIN AL KAFI
 #### A passionate "Flutter - Mobile Application Developer" from Bangladesh.
 
-Hi! This is Md. Osama Bin Al Kafi. I am an expert Mobile application developer and architect with 2 years of experience in the mobile industry.
+Hi! This is Md. Osama Bin Al Kafi. I am an expert Mobile application developer and architect with 1 years of experience in the mobile industry.
 
 I am very much passionate about android/ios developing and designing applications based on client requirement, testing with different mobile's, designing new features, testing code, fixing bugs, and improving application efficiency.
 
