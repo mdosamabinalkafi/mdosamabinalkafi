@@ -16,7 +16,7 @@ Skills: FLUTTER | DART | JAVA | XML | FIREBASE | MySQL | HTML  | CSS
 - 🌱 I’m currently learning Flutter Apps Development 
 - 👯 I’m looking to collaborate on Github. 
 - 💬 Ask me about Apps Developement. 
-- 📫 How to reach me: osamabinalkafi@gmail.com 
+- 📫 How to reach me: mdosamabinalkafi@gmail.com 
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I think i am TOXIC😆 
 
