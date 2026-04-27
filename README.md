@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Osama Bin Al Kafi 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I'm+Osama+Bin+Al+Kafi;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">Software Engineer | Flutter · Cross-Platform Mobile Apps Developer (iOS & Android)</h3>
 
 <p align="center">
@@ -82,15 +87,16 @@ with polished UI/UX and efficient performance.</p>
   <br>
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 </div>
-
+      <div align ="center">
+ <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   </div>
 <div align="center">
   <a href="https://github.com/mdosamabinalkafi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdosamabinalkafi&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdosamabinalkafi&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
 </div>
-
-</br>
 
 <!-- Projects -->
 <div align ="center">
@@ -103,27 +109,12 @@ with polished UI/UX and efficient performance.</p>
 </a>    
 </div>
 <br>
-<br>
-
+<!-- Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdosamabinalkafi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--🐱CAT-->
 <p align="left">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> DM: **mdosamabinalkafi@gmail.com**
 </p>
-
-
-<!--🖼️⭐🔱STARRED/FORK-->
-<h4 align="center">
- 
-<table>
-  <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  </tr>
-  <tr>
-    <td><p align="center"><a href="https://github.com/trinib?tab=stars"><b>HAPPY CODING</b></a>
-  </tr>
- </table>
 
 
