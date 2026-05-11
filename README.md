@@ -105,14 +105,7 @@ with polished UI/UX and efficient performance.</p>
    </div>
 
 
-   <!-- Part 9 -->
-<div align="center">
-  <a href="https://github.com/mdosamabinalkafi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdosamabinalkafi&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdosamabinalkafi&layout=compact&langs_count=7&bg_color=1d1f21&title_color=E94560&text_color=FFE3E3&border_color=ffffff"/>
-  </a>
-</div>
- </br>
+
 
  <!-- Part 10 -->
 <!-- Projects -->
@@ -127,6 +120,7 @@ with polished UI/UX and efficient performance.</p>
 </div>
 <br>
 
+<!-- Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdosamabinalkafi&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdosamabinalkafi&show_icons=true&theme=tokyonight"/>
