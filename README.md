@@ -108,17 +108,7 @@ with polished UI/UX and efficient performance.</p>
 
 
  <!-- Part 10 -->
-<!-- Projects -->
-<div align ="center">
-<a href="https://github.com/mdosamabinalkafi/my-github-theme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdosamabinalkafi&repo=my-github-theme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
 
-<a href="https://github.com/mdosamabinalkafi/my-github-theme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdosamabinalkafi&repo=my-github-theme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-</div>
-<br>
 
 <!-- Stats -->
 <p align="center">
