@@ -127,6 +127,11 @@ with polished UI/UX and efficient performance.</p>
 </div>
 <br>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdosamabinalkafi&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdosamabinalkafi&show_icons=true&theme=tokyonight"/>
+</p>
+
 
 <!-- Part 11 -->
 <!-- Graph -->
