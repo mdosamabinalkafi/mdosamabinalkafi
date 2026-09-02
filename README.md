@@ -33,19 +33,16 @@
 <!-- Part 5 -->
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 3+ years of hands-on experience building high-quality, scalable, and
-user-focused mobile applications.</h3></legend>
+  <legend align="left"><h3>Hi! I’m Osama Bin Al Kafi, a Flutter Developer passionate about building modern apps and websites with the help of AI.</h3></legend>
 
   <em>
-I started with Android Native development, spending 2 years mastering:
 
-- Core Java & XML-based UI development
-- Firebase integration & REST API consumption
-- Local databases (SQLite / MySQL)
-- Debugging, performance optimization & clean architecture
 
-Today, I specialize in **Flutter** crafting cross-platform applications
-with polished UI/UX and efficient performance.</p>
+I enjoy turning ideas into real-world digital products from UI/UX and development to testing, optimization, and deployment. Alongside development, I also work with Digital Marketing and Google Ads to help businesses build and grow their online presence.
+
+Always learning, experimenting with new technologies, and looking for better ways to turn ideas into impactful digital solutions.
+
+Open to collaboration, freelance opportunities, and exciting projects.</p>
   </em> 
   <br>
 
