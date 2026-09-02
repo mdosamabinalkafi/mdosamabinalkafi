@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Part 2 -->
-<h3 align="center">Software Engineer | Flutter · Cross-Platform Mobile Apps Developer (iOS & Android)</h3>
+<h3 align="center">Flutter Developer | AI-Assisted App & Web Development | Digital Marketing</h3>
 
 <!-- Part 3 -->
 <p align="center">
